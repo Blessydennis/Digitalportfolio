@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:#DEFFFA;
+    font-family:'courier New',courier,monospace;
+}
+header{
+    background-color:aliceblue;
+    font-family:'courier New',courier,monospace;
+}
+header{
+    background-color:deepblue;
+    color:black;
+    text-align:center;
+     padding:20px;
+}
+new ul{
+    list-style-type:none;
+    text-align:center;
+}
+nav ul li{
+    display:inline;
+    margin-right:20px;
+}
+nav a{
+    text-decoration:none;
+    color:#712275;
+    font-weight:bold;
+}
+section{
+    margin:20px;
+    padding:20px;
+    background-color:deepcyan;
+}
+.skills{
+    margin-bottom:20px;
+}
+.skills h3{
+    color:red;
+}
+footer{
+    text-align:center;
+    padding:10px;
+    background-color:deeppink;
+    color:yellow;
+}
